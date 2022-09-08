@@ -1,0 +1,26 @@
+.search{
+    width: 40%;
+    height: 100px;
+    padding: 20px;
+    background-color: #000000b2;
+    position: fixed;
+    bottom: 0;
+    right: 30%;
+    color: #ffffff;
+    font-size: 30px;
+    box-sizing: border-box;
+}
+
+.search input{
+    margin: 10px;
+    width: 50px;
+    height: 30px;
+    font-size: 30px;
+    border-radius: 2px;
+    border: none;
+}
+
+.search button{
+    margin: 0;
+    font-size: 24px;
+}

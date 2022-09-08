@@ -1,0 +1,8 @@
+#hand-bg{
+    width: 45vw;
+    min-height: 20%;
+    padding: 10px;
+    margin: 10px;
+    border: 7px dashed #00000048;
+    display: inline-block;
+}

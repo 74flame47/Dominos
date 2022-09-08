@@ -1,0 +1,44 @@
+#board-bg{
+    width: 90vw;
+    height: 300px;
+    margin: 20px auto 10px auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    background-color: #42a845;
+    border: 4px solid #145114;
+    overflow: hidden;
+}
+
+
+.front{
+    padding: 20px;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: #145114;
+    position: absolute;
+    left: 6%;
+    opacity: .5;
+}
+
+.back{
+    padding: 20px;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: #143151;
+    position: absolute;
+    right: 6%;
+    opacity: .5;
+}
+
+
+.back:hover{
+    border: 5px solid #75a1d1;
+    opacity: 1;
+}
+.front:hover{
+    border: 5px solid #77ec77;
+    opacity: 1;
+}
