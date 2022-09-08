@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dominos/static/css/main.db19a348.css",
+    "main.js": "/Dominos/static/js/main.b528caaf.js",
+    "index.html": "/Dominos/index.html",
+    "main.db19a348.css.map": "/Dominos/static/css/main.db19a348.css.map",
+    "main.b528caaf.js.map": "/Dominos/static/js/main.b528caaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db19a348.css",
+    "static/js/main.b528caaf.js"
+  ]
+}
